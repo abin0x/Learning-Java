@@ -1,5 +1,6 @@
 import java.util.Scanner;
-public class Input {
+public class Input 
+{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int number;
@@ -15,7 +16,8 @@ public class Input {
 
         System.out.println("Hello, I am " + text);
         System.out.println("You entered: " + number);
-        
+
         input.close();
-    }
+        
+    }             
 }

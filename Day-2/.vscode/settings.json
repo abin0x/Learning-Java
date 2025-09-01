@@ -4,5 +4,8 @@
         "Hasan",
         "HSTU",
         "mahmudul"
-    ]
+    ],
+    "indentOneSpace.cramReversed": true,
+    "indentOneSpace.workOnSingleLine": true,
+    "indentOneSpace.onlyCompleteRange": true
 }
